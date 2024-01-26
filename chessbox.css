@@ -1,0 +1,29 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+.white
+{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    
+
+}
+.black
+{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+.main
+{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   
+}
